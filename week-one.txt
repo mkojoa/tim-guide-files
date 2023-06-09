@@ -11,3 +11,26 @@ The values store into the array in reverse are :
 
 3. Write a program in C# Sharp to find the sum of all array elements.
 Expected Output : Sum of all elements stored in the array is : 15
+
+4.  Write a program in C# Sharp to check the username and password.
+Test Data :
+Input a username: uesr
+Input a password: pass
+Input a username: abcd
+Input a password: 1234
+Expected Output :
+
+Password entered successfully!
+
+5. Write a program in C# Sharp to display the pattern like pyramid using an asterisk and each row contain an odd number of an asterisks.
+
+  *
+ ***
+*****
+
+6. Write a C# Sharp program to determine whether a given number is prime or not.
+ Test Data :
+Input a number: 13
+Expected Output :
+13 is a prime number.
+
